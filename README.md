@@ -131,7 +131,6 @@ Cross-platform: Works with Windows, macOS, Linux, Android, iOS.
 Improves efficiency (one keyboard/mouse, easy file sharing, multi-device audio/video).
 
 
----
-
-Use this summary to start a new chat or project thread focusing on any specific aspect: hardware selection, software configuration, or advanced features like AI-assisted device control. Let me know if you need more details on any specific part!
+--
+Idea to create costom software to achive all above task by just one software plug theough router or hub.
 
